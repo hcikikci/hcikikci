@@ -33,16 +33,19 @@ I’m a software engineer specializing in building (and occasionally designing) 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on React Customizable Theme  
-  
+- 🔭 I’m currently working on:  
+  - **Commafusion**, an AI-assisted product management system built with **Next.js**, **Express.js**, and **PostgreSQL**.  
+  - **CommaLeon**, a robust e-commerce management platform powered by **CodeIgniter**, **PostgreSQL**, and **Elasticsearch**, covering everything from webshop management and order synchronization to warehouse, shipping, and CRM systems.  
+  - **Agile Master**, a multi-phase project designed to streamline software development processes:  
+    - **Agile Documenter**: Focuses on project documentation (defining vision, use cases, requirements, etc.).  
+    - **Agile Planner**: Supports project creation with database schema generation and boilerplate structuring.  
+    - **Agile Dev**: Helps with task management, team coordination, and development tracking.  
 
-- 🌱 I’m currently learning React, Django and Tailwind CSS  
-  
+- 🌱 I’m currently learning **Java** to advance in data structures, algorithms, and microservice architectures, as well as exploring **Docker**, **tRPC**, and **cloud solutions**.  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to **SaaS development**, **Next.js**, **React**, **Node.js**, **PostgreSQL**, **Elasticsearch**, or **TypeScript**.  
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I’m passionate about building scalable and efficient systems that solve real-world problems while continuously exploring innovative technologies.  
 
 
 </td><td valign="top" width="50%">
