@@ -62,22 +62,24 @@ I’m a software engineer specializing in building (and occasionally designing) 
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="Next.js" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" alt="Docker" height="50" /></a>  
+  <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaD_Xwu9W-T6ydU0aaqbvnKcJinXkQfkzyaw&s" alt="ElasticSearch" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="80" /></a>  
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMSOUWdcE8LB2NnQIlFq5x4Xk0POR4_b3UA&s" alt="Tailwind CSS" height="40" /></a>  
+  <a href="https://trpc.io/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCBBMHla93niGHUGY29audTZ-Er2KjmNuveA&s" alt="tRPC" height="50" /></a>  
+  <a href="https://redis.io/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" alt="Redis" height="50" /></a>  
+  <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" height="50" /></a>  
+  <a href="https://zod.dev/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://future-architect.github.io/images/20240514a/top.png" alt="Zod" height="50" /></a>  
+  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" height="50" /></a>  
+  <a href="https://www.codeigniter.com" target="_blank"><img style="margin: 10px; vertical-align: middle;" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-language-pack-logos-icons-1175201.png?f=webp" alt="CodeIgniter" height="50" /></a>  
+</div>
+
+
 
 <br/>  
 
