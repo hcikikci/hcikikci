@@ -46,16 +46,15 @@ I’m a software engineer specializing in building (and occasionally designing) 
 - ❓ Ask me about anything related to **SaaS development**, **Next.js**, **React**, **Node.js**, **PostgreSQL**, **Elasticsearch**, or **TypeScript**.  
 
 - ⚡ Fun fact: I’m passionate about building scalable and efficient systems that solve real-world problems while continuously exploring innovative technologies.  
+</td>
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+<td style="width: 50%; vertical-align: top; text-align: center;">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952rhlx0vc2ppqz7mb3fhoenudk00ptniiibkyorb5u&ep=v1_gifs_search&rid=200w.gif&ct=g" style="width: auto; max-width: 90%; margin-bottom: 10px;" alt="First Image">
+        <img src="https://media.tenor.com/uScmyrBrE2YAAAAM/empresa-company.gif" style="width: auto; max-width: 90%;" alt="Second Image">
+      </div>
+    </td>
+</tr></table>  
 
 <br/>  
 
@@ -90,9 +89,7 @@ I’m a software engineer specializing in building (and occasionally designing) 
 <img src="https://github-readme-stats.vercel.app/api?username=hcikikci&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcikikci&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
 
 <br/>  
