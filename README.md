@@ -4,7 +4,7 @@ Senior Software Engineer • Tech Lead • SaaS & Platform Architect
 <a href="https://github.com/hcikikci" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/halitcan-çıkıkçı/" target="_blank">
+<a href="https://www.linkedin.com/in/halitcan-%C3%A7%C4%B1k%C4%B1k%C3%A7%C4%B1-58465b28a" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://halitcancikikci.dev" target="_blank">
